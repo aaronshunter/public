@@ -67,8 +67,9 @@ I do the same thing for meetings too! I use this for my Chime meetings which hel
 
 Here’s a picture of me using this setup during a Chime meeting. I’ve added a second photo that’s zoomed in where you can (barely) see two blue “parenthesis” looking things... that’s my **Logitech C920** camera! *I know... I know... I’m not looking at the camera. Shame!* PROOF you don’t need a big DSLR camera. In fact, I prefer having the blue lines so /1 I know the camera is on (it's the little things in life) and /2 I know I’m looking at the camera since the camera isn’t easily seen through the mirror. ** 
 
-|![](images/monitor-with-aaron.png) | ![](images/logitech-c920.png) |
+|<img src="images/monitor-with-aaron.png" height="300"> | <img src="images/logitech-c920.png" height="300">|
 |---|---|
+
 * * *
 
 ## Conclusion
