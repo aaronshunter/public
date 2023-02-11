@@ -1,6 +1,6 @@
 # @aaronshunter Teleprompter Setup
 
-Hey hey! Welcome to the guide :) 
+Hey there! Welcome to my guide on how I set up my teleprompter 😁 
 
 If you’re here, you probably heard me talking about my teleprompter and how I use it to join meetings, teach AWS Training and Certification (T&C) courses, or [deliver a show on Twitch](https://awspowerhour.com/). Using a teleprompter is a great way to maintain eye contact with the camera without losing focus on your subject or content. Huge thanks to my friend Jon Dion because, without him, I’d still be awkwardly staring off to the side of the camera. But first, a disclaimer!
 
@@ -65,12 +65,16 @@ Here’s a picture of the monitor with an introduction training module (Advanced
 
 I do the same thing for meetings too! I use this for my Chime meetings which helps so so so much. Now I can focus on people in the meeting who have their webcam enabled without looking off to the side and it allows me to maintain eye contact with the camera. 
 
-Here’s a picture of a Chime meeting. I’ve added a second photo that’s zoomed in where you can (barely) see two blue “parenthesis” looking things... that’s my **Logitech C920** camera! *I know... I know... I’m not looking at the camera. Shame!* PROOF you don’t need a big DSLR camera. In fact, I prefer having the blue lines so I know I’m looking at the camera since the camera isn’t easily seen through the mirror. ** 
+Here’s a picture of me using this setup during a Chime meeting. I’ve added a second photo that’s zoomed in where you can (barely) see two blue “parenthesis” looking things... that’s my **Logitech C920** camera! *I know... I know... I’m not looking at the camera. Shame!* PROOF you don’t need a big DSLR camera. In fact, I prefer having the blue lines so /1 I know the camera is on (it's the little things in life) and /2 I know I’m looking at the camera since the camera isn’t easily seen through the mirror. ** 
 
-[Image: image.png][Image: image.png]* * *
+|![](images/monitor-with-aaron.png) | ![](images/logitech-c920.png) |
+|---|---|
+* * *
 
 ## Conclusion
 
 In the end, the teleprompter is one of the best enhancements to my desk setup and I wish I added it years ago. Virtual engagements will **never** be the same. Totally worth the money, time, and energy. 
 
-Alright everyone. I hope you found this helpful. Take care!
+Alright everyone. I hope you found this helpful. Take care!  
+
+👋 Aaron (@aaronshunter)
