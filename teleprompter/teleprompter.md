@@ -73,5 +73,4 @@ Here’s a picture of a Chime meeting. I’ve added a second photo that’s zoom
 
 In the end, the teleprompter is one of the best enhancements to my desk setup and I wish I added it years ago. Virtual engagements will **never** be the same. Totally worth the money, time, and energy. 
 
-Alright everyone. I hope you found this helpful and remember:
-Happy cloud computing from all of us here at AWS!
+Alright everyone. I hope you found this helpful. Take care!
