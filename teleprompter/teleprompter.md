@@ -32,7 +32,7 @@ Here are some photos of each component:
 |**Glide Gear TMP100 teleprompter**	|**WIMAXIT 10.1 inch Monitor**	|**VIVO Single Monitor Arm**	|**Elgato Key Light**	|
 |---	|---	|---	|---	|
 |[Amazon link](https://www.amazon.com/dp/B019AJOLEM/ref=cm_sw_r_oth_api_glt_fabc_KYZ051F01PBNC818DNTS?pldnSite=1)	|[Amazon link](https://www.amazon.com/dp/B074JWQ57Y/ref=cm_sw_r_oth_api_glt_fabc_915M9SZWG2EZTKQQQB4S?pldnSite=1)	|[Amazon link](https://www.amazon.com/dp/B00B21TLQU/ref=cm_sw_r_oth_api_glt_fabc_FDFK7S75MF2DCM7RHVJW?_encoding=UTF8&pldnSite=1&th=1)	|[Amazon Link](https://www.amazon.com/Elgato-Key-Light-Professional-App-Enabled/dp/B07L755X9G)	|
-|<img src="images/glide-gear.png" height="300">|<img src="images/wimaxit.png" height="300">|<img src="images/vivo-single-monitor-arm.png" height="300">|<img src="images/elgato-key-light.png" height="300">|
+|<img src="images/glide-gear.png">|<img src="images/wimaxit.png">|<img src="images/vivo-single-monitor-arm.png">|<img src="images/elgato-key-light.png">|
 
 
 
