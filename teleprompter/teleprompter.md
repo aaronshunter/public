@@ -32,7 +32,7 @@ Here are some photos of each component:
 |**Glide Gear TMP100 teleprompter**	|**WIMAXIT 10.1 inch Monitor**	|**VIVO Single Monitor Arm**	|**Elgato Key Light**	|
 |---	|---	|---	|---	|
 |[Amazon link](https://www.amazon.com/dp/B019AJOLEM/ref=cm_sw_r_oth_api_glt_fabc_KYZ051F01PBNC818DNTS?pldnSite=1)	|[Amazon link](https://www.amazon.com/dp/B074JWQ57Y/ref=cm_sw_r_oth_api_glt_fabc_915M9SZWG2EZTKQQQB4S?pldnSite=1)	|[Amazon link](https://www.amazon.com/dp/B00B21TLQU/ref=cm_sw_r_oth_api_glt_fabc_FDFK7S75MF2DCM7RHVJW?_encoding=UTF8&pldnSite=1&th=1)	|[Amazon Link](https://www.amazon.com/Elgato-Key-Light-Professional-App-Enabled/dp/B07L755X9G)	|
-|![](https://raw.githubusercontent.com/aaronshunter/public/main/teleprompter/image%20(2).png)	|![](https://raw.githubusercontent.com/aaronshunter/public/main/teleprompter/image%20(3).png)	|![](https://raw.githubusercontent.com/aaronshunter/public/main/teleprompter/image%20(4).png)	|![](https://raw.githubusercontent.com/aaronshunter/public/main/teleprompter/image%20(8).png)	|
+|<img src="images/glide-gear.png" height="300">|<img src="images/wimaxit.png" height="300">|<img src="images/vivo-single-monitor-arm.png" height="300">|<img src="images/elgato-key-light.png" height="300">|
 
 
 
@@ -58,7 +58,7 @@ Select your teleprompter monitor
 Now I use my laptop as the primary monitor that is mirrored and displayed on the teleprompter monitor!
 
 Here’s a picture of the monitor with an introduction training module (Advanced Architecting on AWS in the house... w00t w00t):
-![](https://github.com/aaronshunter/public/blob/main/teleprompter/image%20(9).png)
+<img src="images/monitor-with-adv-arch-intro.png" height="300">
 * * *
 
 ## Meetings
