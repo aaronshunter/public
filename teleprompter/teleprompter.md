@@ -6,43 +6,65 @@ If you’re here, you probably heard me talking about my teleprompter and how I 
 
 Let’s break this article down into a few categories:
 
-* Gear/Equipment
-* Trainings
-* Meetings
+* GEAR/EQUIPMENT
+* TRAININGS
+* MEETINGS
 
 * * *
 
-## Gear/Equipment
-
+## GEAR/EQUIPMENT  
 First, the gear. There are a few pieces of equipment I’ve found that helped me get set up for my personal preference. Your mileage may vary, so find what works best for you. My setup includes the **Glide Gear TMP100 teleprompter** ([Amazon link](https://www.amazon.com/dp/B019AJOLEM/ref=cm_sw_r_oth_api_glt_fabc_KYZ051F01PBNC818DNTS?pldnSite=1)). This is a really nice teleprompter for what I need it to do. It has a fully adjustable bracket that slides in and out, the glass tilts to different viewing angles, and there’s a fabric hood in the back to help prevent light from shining through the glass. Nice, so nice. Note: The TMP100 images show a DSLR (really big camera) is attached, but I personally use my **Logitech C920** (oldie but a goodie) without any issues. 
 
-**TELEPROMPTER/MONITOR**
+**TELEPROMPTER/MONITOR**  
 The teleprompter is marketed for an iPad/Tablet/Smartphone, but you can use it with a monitor as well. Using an iPad as a monitor doesn’t work me so I looked around for a monitor that I could use. I ordered 7, yes SEVEN, different monitors until I found one that fits the TMP100 bracket spacing. I settled with the **WIMAXIT 10.1 inch Monitor** ([Amazon link](https://www.amazon.com/dp/B074JWQ57Y/ref=cm_sw_r_oth_api_glt_fabc_915M9SZWG2EZTKQQQB4S?pldnSite=1))**. **While this monitor has a 1920x1080 resolution, which is more than enough for my needs, there is one major drawback that doesn’t work as a functional teleprompter display... YOU CAN’T ROTATE THE DISPLAY! So, I use OBS to flip my display. Maybe one day I’ll find a monitor that fits and has that functionality, but for now this works good enough :)
 
-**DESK MOUNT**
+**DESK MOUNT**  
 Ok, so now that we have our teleprompter and monitor - we need a way to attach it to our desk. I mean... it doesn’t just float (but how awesome would that be?!). For this, I use the **VIVO Single Monitor Arm** ([Amazon link](https://www.amazon.com/dp/B00B21TLQU/ref=cm_sw_r_oth_api_glt_fabc_FDFK7S75MF2DCM7RHVJW?_encoding=UTF8&pldnSite=1&th=1)) which I found the teleprompter fits perfectly onto one of the bolts on the arm. I can loosen a single bolt to adjust the arm up and down, then tighten the bolt again. once it’s in the correct height, I can swivel the arm to the exact position I need. It’s inexpensive, simple to install and adjust, and works just fine!
 
-**LIGHTING**
+**LIGHTING**  
 **NEW (May 2022)!** I’ve added a ring light to my collection of gear. I ordered and tested a few ring lights and found the **Lume Cube 18 Inch Cordless Ring Light** ([Amazon Link](https://www.amazon.com/gp/product/B08WWGRN2Y/?th=1)) is the better option in my opinion. The 18 inch model fits perfectly over the teleprompter and casts a beautiful light. Something I’ve found The benefit of using a ring light is an even and flattering light on the face, and helps to reduce light that’s reflected from eyeglasses (in my experience). 
 
 **UPDATED (Oct 2022)!** I’ve replaced the ring light with an **Elgato Key Light** ([Amazon Link](https://www.amazon.com/Elgato-Key-Light-Professional-App-Enabled/dp/B07L755X9G?th=1)). There isn’t anything wrong with the ring light but, because I wear glasses, the ring light caused a reflection on my lenses. The Elgato Key Light can be positioned offset from the camera, which helps significantly. 
 
-Here are some photos of each component:
+**UPDATED (APR 2023)!** Several people have asked me about my camera setup, which is great timing because it's changed since first publishing this article when I was using the Logitech C920. I still use the webcam, but not as part of my teleprompter setup 😄. I upgraded to the Canon EOS M50 Mark II camera, which is night and day to the Logitech C920. One thing I learned about this camera is the USB cable is not good enough. Don't get me wrong, it's better than most USB webcams but... it can be better. To level-up the quality, get a capture card! I've added the Elgato Cam Link 4K capture card which allows me to record and live stream at the highest quality. 
+
+Here are some (non-affiliate) links and photos of each component:
 
 |**Glide Gear TMP100 teleprompter**	|**WIMAXIT 10.1 inch Monitor**	|**VIVO Single Monitor Arm**	|**Elgato Key Light**	|
 |---	|---	|---	|---	|
 |[Amazon link](https://www.amazon.com/dp/B019AJOLEM/ref=cm_sw_r_oth_api_glt_fabc_KYZ051F01PBNC818DNTS?pldnSite=1)	|[Amazon link](https://www.amazon.com/dp/B074JWQ57Y/ref=cm_sw_r_oth_api_glt_fabc_915M9SZWG2EZTKQQQB4S?pldnSite=1)	|[Amazon link](https://www.amazon.com/dp/B00B21TLQU/ref=cm_sw_r_oth_api_glt_fabc_FDFK7S75MF2DCM7RHVJW?_encoding=UTF8&pldnSite=1&th=1)	|[Amazon Link](https://www.amazon.com/Elgato-Key-Light-Professional-App-Enabled/dp/B07L755X9G)	|
 |<img src="images/glide-gear.png">|<img src="images/wimaxit.png">|<img src="images/vivo-single-monitor-arm.png">|<img src="images/elgato-key-light.png">|
 
+**CAMERA**  
+Canon M50 Mark II w/ kit (15-45mm) lens
+https://a.co/d/0UOTTIH
 
+**CAPTURE CARD**  
+Elgato Cam Link 4K, External Camera Capture Card
+https://www.amazon.com/dp/B07K3FN5MR
+
+## ADDITIONAL (AUDIO) EQUIPMENT  
+With the majority of the equipment covered, I wanted to share some additional equipment I use that others have asked me about. My microphone is built using a wireless mic system (DJI) and an earhook mic. Getting the microphone capsule closer to your mouth is helpful to improve audio quality (most times) and the earhook mic does a good job accomplishing this. In addition to the mic, I use Bose QuietComfort over the ear headphones. They really are comfortable, and great for travel too. Here's a list, with links, for each. 
+
+**WIRELESS MIC**  
+DJI Mic (2 TX + 1 RX + Charging Case), Wireless Lavalier Microphone
+https://www.amazon.com/dp/B09GYD55JF
+
+**EARHOOK MIC**  
+Av-Jefes AVL630B35LS Black Color Mini Headset Mic for Sennheiser Wireless Microphone
+https://www.amazon.com/dp/B07H8TKF62
+
+**HEADPHONES**  
+Bose QuietComfort 45 Bluetooth Wireless Noise Cancelling Headphones - Triple Black 
+https://a.co/d/9tFldAh
 
 * * *
 
-## Trainings
+## TRAININGS
 
 Cool. I just ~~spent~~ invested a lot of money (insert burning money emoji here)... cool cool cool. Now what? Use it for the fun stuff! 
 
-I use the teleprompter for my digital content and presentations. I’ve also used it to stream Let’s Ship it with AWS and AWS Power Hour series on Twitch! Check out awspowerhour.com to see those episodes. Due to the monitor limitations, I have use OBS Studio to flip the display and have the teleprompter mounted directly above my laptop, so I use either the laptop display or my drawing tablet. There are so many ways you could do this, so do what’s best for you --- this is just what works best for me... for now :) 
+I use the teleprompter for my digital content and presentations. I’ve also used it to perform live training (live streams) on Twitch! Check out awspowerhour.com to see those episodes and what's coming up next. The teleprompter is nice but, due to monitor limitations, I use OBS Studio to flip the display and project to the teleprompter. In my case, the teleprompter is mounted directly above my laptop, so I use either the laptop display or my drawing tablet. There are so many ways you could do this, so do what’s best for you --- this is just what works best for me... for now (as you can see from the updates/changes above 😁)
 
 **OBS Studio Preview window**
 Create a new scene
@@ -61,11 +83,11 @@ Here’s a picture of the monitor with an introduction training module (Advanced
 <img src="images/monitor-with-adv-arch-intro.png" height="300">
 * * *
 
-## Meetings
+## MEETINGS
 
-I do the same thing for meetings too! I use this for my Chime meetings which helps so so so much. Now I can focus on people in the meeting who have their webcam enabled without looking off to the side and it allows me to maintain eye contact with the camera. 
+I do the same thing for meetings too! I use this for meetings which helps so so so much. Now I can focus on people in the meeting who have their webcam enabled without looking off to the side and it allows me to maintain eye contact with the camera. 
 
-Here’s a picture of me using this setup during a Chime meeting. I’ve added a second photo that’s zoomed in where you can (barely) see two blue “parenthesis” looking things... that’s my **Logitech C920** camera! *I know... I know... I’m not looking at the camera. Shame!* PROOF you don’t need a big DSLR camera. In fact, I prefer having the blue lines so /1 I know the camera is on (it's the little things in life) and /2 I know I’m looking at the camera since the camera isn’t easily seen through the mirror. ** 
+Here’s a picture of me using this setup during a meeting. I’ve added a second photo that’s zoomed in where you can (barely) see two blue “parenthesis” looking things... that’s my **Logitech C920** camera! *I know... I know... I’m not looking at the camera. Shame!* PROOF you don’t need a big DSLR camera. In fact, I prefer having the blue lines so /1 I know the camera is on (it's the little things in life) and /2 I know I’m looking at the camera since the camera isn’t easily seen through the mirror. ** 
 
 |<img src="images/monitor-with-aaron.png" height="300"> | <img src="images/logitech-c920.png" height="300">|
 |---|---|
@@ -78,4 +100,16 @@ In the end, the teleprompter is one of the best enhancements to my desk setup an
 
 Alright everyone. I hope you found this helpful. Take care!  
 
-👋 Aaron (@aaronshunter)
+👋 Aaron 
+
+#########################################
+
+Connect with me on LinkedIn
+https://www.linkedin.com/in/aaronshunter/
+
+#########################################
+
+Follow me on Twitter @aaronshunter
+https://twitter.com/aaronshunter
+
+#########################################
