@@ -30,41 +30,71 @@ Ok, so now that we have our teleprompter and monitor - we need a way to attach i
 
 **APR 2023** Several people have asked me about my camera setup, which is great timing because it's changed since first publishing this article when I was using the Logitech C920. I still use the webcam, but not as part of my teleprompter setup 😄. I upgraded to the Canon EOS M50 Mark II camera, which is night and day to the Logitech C920. One thing I learned about this camera is the USB cable is not good enough. Don't get me wrong, it's better than most USB webcams but... it can be better. To level-up the quality, get a capture card! I've added the Elgato Cam Link 4K capture card which allows me to record and live stream at the highest quality. 
 
-Here are some (non-affiliate) links and photos of each component:
+Here are some (affiliate) links and photos of each component:
+**Glide Gear TMP100 teleprompter**
+<a href="https://www.amazon.com/dp/B019AJOLEM/ref=nosim?tag=aaronshunter-20">
+Amazon link<br>
+<img src="images/glide-gear.png" height="150">
+</a>
 
-|**Glide Gear TMP100 teleprompter**	|**WIMAXIT 10.1 inch Monitor**	|**VIVO Single Monitor Arm**	|**Elgato Key Light**	|
-|---	|---	|---	|---	|
-|[Amazon link](https://www.amazon.com/dp/B019AJOLEM/ref=nosim?tag=aaronshunter-20)	|[Amazon link](https://www.amazon.com/dp/B074JWQ57Y/ref=nosim?tag=aaronshunter-20)	|[Amazon link](https://www.amazon.com/dp/B00B21TLQU/ref=nosim?tag=aaronshunter-20)	|[Amazon Link](https://www.amazon.com/dp/B07L755X9G/ref=nosim?tag=aaronshunter-20)	|
-|<img src="images/glide-gear.png">|<img src="images/wimaxit.png">|<img src="images/vivo-single-monitor-arm.png">|<img src="images/elgato-key-light.png">|
+**WIMAXIT 10.1 inch Monitor**
+<a href="https://www.amazon.com/dp/B074JWQ57Y/ref=nosim?tag=aaronshunter-20">
+Amazon link<br>
+<img src="images/wimaxit.png" height="150">
+</a>
+
+**VIVO Single Monitor Arm**
+<a href="https://www.amazon.com/dp/B00B21TLQU/ref=nosim?tag=aaronshunter-20">
+Amazon link<br>
+<img src="images/vivo-single-monitor-arm.png" height="150">
+</a>
+
+**Elgato Key Light**	|
+<a href="https://www.amazon.com/dp/B07L755X9G/ref=nosim?tag=aaronshunter-20">
+Amazon link<br>
+<img src="images/elgato-key-light.png" height="150">
+</a>
 
 **CAMERA**  
-Canon M50 Mark II w/ kit (15-45mm) lens
-[Amazon link](https://www.amazon.com/dp/B08KSKV35C/ref=nosim?tag=aaronshunter-20)
+Canon M50 Mark II w/ kit (15-45mm) lens  
+[Amazon link](https://www.amazon.com/dp/B08KSKV35C/ref=nosim?tag=aaronshunter-20)  
+<img src="images/canon-eos-m50-markii.jpg" height="150">
 
 **CAPTURE CARD**  
-Elgato Cam Link 4K, External Camera Capture Card
-[Amazon link](https://www.amazon.com/dp/B07K3FN5MR/ref=nosim?tag=aaronshunter-20)
+Elgato Cam Link 4K, External Camera Capture Card  
+[Amazon link](https://www.amazon.com/dp/B07K3FN5MR/ref=nosim?tag=aaronshunter-20)  
+<img src="images/elgato-camlink-4k.jpg" height="150">  
 
+* * *
 ## ADDITIONAL (AUDIO) EQUIPMENT  
 With the majority of the equipment covered, I wanted to share some additional equipment I use that others have asked me about. My microphone is built using a wireless mic system (DJI) and an earhook mic. Getting the microphone capsule closer to your mouth is helpful to improve audio quality (most times) and the earhook mic does a good job accomplishing this. In addition to the mic, I use Bose QuietComfort over the ear headphones. They really are comfortable, and great for travel too. Here's a list, with links, for each. 
 
 **WIRELESS MIC**  
-DJI Mic (2 TX + 1 RX + Charging Case), Wireless Lavalier Microphone
-[Amazon link](https://www.amazon.com/dp/B09GYD55JF/ref=nosim?tag=aaronshunter-20)
+DJI Mic (2 TX + 1 RX + Charging Case), Wireless Lavalier Microphone  
+<a href="https://www.amazon.com/dp/B09GYD55JF/ref=nosim?tag=aaronshunter-20">
+Amazon link <br>
+<img src="images/dji-wireless-mic.jpg" height="150">  
+</a>
 
 **EARHOOK MIC**  
-Av-Jefes AVL630B35LS Black Color Mini Headset Mic for Sennheiser Wireless Microphone
-[Amazon link](https://www.amazon.com/dp/B07H8TKF62/ref=nosim?tag=aaronshunter-20)
+Av-Jefes AVL630B35LS Black Color Mini Headset Mic for Sennheiser Wireless Microphone  
+<a href="https://www.amazon.com/dp/B07H8TKF62/ref=nosim?tag=aaronshunter-20">
+Amazon link <br> 
+<img src="images/av-jefes-earhook-mic.jpg" height="150">  
+</a>
 
 **HEADPHONES**  
-Bose QuietComfort 45 Bluetooth Wireless Noise Cancelling Headphones - Triple Black 
-[Amazon link](https://www.amazon.com/dp/B098FKXT8L/ref=nosim?tag=aaronshunter-20)
+Bose QuietComfort 45 Bluetooth Wireless Noise Cancelling Headphones - Triple Black  
+<a href="https://www.amazon.com/dp/B098FKXT8L/ref=nosim?tag=aaronshunter-20">
+Amazon link <br>
+<img src="images/bose-qc45.jpg" height="150">  
+</a>
 
 * * *
 
 ## TRAININGS
 
-Cool. I just ~~spent~~ invested a lot of money (insert burning money emoji here)... cool cool cool. Now what? Use it for the fun stuff! 
+Cool. I just ~~spent~~ invested a lot of money (🔥💸🔥)... cool cool cool. Now what? Use it for the fun stuff! 
 
 I use the teleprompter for my digital content and presentations. I’ve also used it to perform live training (live streams) on Twitch! Check out awspowerhour.com to see those episodes and what's coming up next. The teleprompter is nice but, due to monitor limitations, I use OBS Studio to flip the display and project to the teleprompter. In my case, the teleprompter is mounted directly above my laptop, so I use either the laptop display or my drawing tablet. There are so many ways you could do this, so do what’s best for you --- this is just what works best for me... for now (as you can see from the updates/changes above 😁)
 
@@ -106,12 +136,12 @@ Alright everyone. I hope you found this helpful. Take care!
 
 #########################################
 
-Connect with me on LinkedIn
+Connect with me on LinkedIn  
 https://www.linkedin.com/in/aaronshunter/
 
 #########################################
 
-Follow me on Twitter @aaronshunter
+Follow me on Twitter @aaronshunter  
 https://twitter.com/aaronshunter
 
 #########################################
