@@ -83,6 +83,9 @@ Amazon link <br>
 <img src="images/av-jefes-earhook-mic.jpg" height="150">  
 </a>
 
+**3.5mm TRS to TRRS ADAPTER**
+[Amazon link](https://www.amazon.com/dp/B07HF39FXQ/ref=nosim?tag=aaronshunter-20)
+
 **HEADPHONES**  
 Bose QuietComfort 45 Bluetooth Wireless Noise Cancelling Headphones - Triple Black  
 <a href="https://www.amazon.com/dp/B098FKXT8L/ref=nosim?tag=aaronshunter-20">
