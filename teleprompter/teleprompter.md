@@ -30,26 +30,26 @@ Ok, so now that we have our teleprompter and monitor - we need a way to attach i
 
 **APR 2023** Several people have asked me about my camera setup, which is great timing because it's changed since first publishing this article when I was using the Logitech C920. I still use the webcam, but not as part of my teleprompter setup 😄. I upgraded to the Canon EOS M50 Mark II camera, which is night and day to the Logitech C920. One thing I learned about this camera is the USB cable is not good enough. Don't get me wrong, it's better than most USB webcams but... it can be better. To level-up the quality, get a capture card! I've added the Elgato Cam Link 4K capture card which allows me to record and live stream at the highest quality. 
 
-Here are some (affiliate) links and photos of each component:
-**Glide Gear TMP100 teleprompter**
+Here are some (affiliate) links and photos of each component:  
+**Glide Gear TMP100 teleprompter**  
 <a href="https://www.amazon.com/dp/B019AJOLEM/ref=nosim?tag=aaronshunter-20">
 Amazon link<br>
 <img src="images/glide-gear.png" height="150">
 </a>
 
-**WIMAXIT 10.1 inch Monitor**
+**WIMAXIT 10.1 inch Monitor**  
 <a href="https://www.amazon.com/dp/B074JWQ57Y/ref=nosim?tag=aaronshunter-20">
 Amazon link<br>
 <img src="images/wimaxit.png" height="150">
 </a>
 
-**VIVO Single Monitor Arm**
+**VIVO Single Monitor Arm**  
 <a href="https://www.amazon.com/dp/B00B21TLQU/ref=nosim?tag=aaronshunter-20">
 Amazon link<br>
 <img src="images/vivo-single-monitor-arm.png" height="150">
 </a>
 
-**Elgato Key Light**	|
+**Elgato Key Light**  
 <a href="https://www.amazon.com/dp/B07L755X9G/ref=nosim?tag=aaronshunter-20">
 Amazon link<br>
 <img src="images/elgato-key-light.png" height="150">
@@ -83,8 +83,12 @@ Amazon link <br>
 <img src="images/av-jefes-earhook-mic.jpg" height="150">  
 </a>
 
-**3.5mm TRS to TRRS ADAPTER**
-[Amazon link](https://www.amazon.com/dp/B07HF39FXQ/ref=nosim?tag=aaronshunter-20)
+**3.5mm TRS to TRRS ADAPTER**  
+Riqiorod 3.5mm TRS to TRRS Adater
+<a href="https://www.amazon.com/dp/B07HF39FXQ/ref=nosim?tag=aaronshunter-20">
+Amazon link <br>
+<img src="images/riqiorod-3.5mm-trs-to-trrs-adapter.jpg" height="150">  
+</a>
 
 **HEADPHONES**  
 Bose QuietComfort 45 Bluetooth Wireless Noise Cancelling Headphones - Triple Black  
