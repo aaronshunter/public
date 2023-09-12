@@ -67,7 +67,9 @@ Elgato Cam Link 4K, External Camera Capture Card
 
 * * *
 ## ADDITIONAL (AUDIO) EQUIPMENT  
-With the majority of the equipment covered, I wanted to share some additional equipment I use that others have asked me about. My microphone is built using a wireless mic system (DJI) and an earhook mic. Getting the microphone capsule closer to your mouth is helpful to improve audio quality (most times) and the earhook mic does a good job accomplishing this. In addition to the mic, I use Bose QuietComfort over the ear headphones. They really are comfortable, and great for travel too. Here's a list, with links, for each. 
+With the majority of the equipment covered, I wanted to share some additional equipment I use that others have asked me about. My microphone is built using a wireless mic system (DJI) and an earhook mic - keep in mind this mic combo will require a TRS to TRRS adapter (linked below). Getting the microphone capsule closer to your mouth is helpful to improve audio quality (most times) and the earhook mic does a good job accomplishing this. In addition to the mic, I use Bose QuietComfort over the ear headphones. They really are comfortable, and great for travel too. Here's a list, with links, for each. 
+
+If I'm not using my Bose QC45 headphones and earhook mic, you can find me using my PowerDeWise Lav Mic clipped to my shirt. The lav mic gets plugged into my DJI wireless mic (without the need of an adapter). I'm pretty pleased with the sound quality of the lav mic and there doesn't seem to be any audio interference. It's a keeper and I've added it to my kit!
 
 **WIRELESS MIC**  
 DJI Mic (2 TX + 1 RX + Charging Case), Wireless Lavalier Microphone  
@@ -88,6 +90,13 @@ Riqiorod 3.5mm TRS to TRRS Adater
 <a href="https://www.amazon.com/dp/B07HF39FXQ/ref=nosim?tag=aaronshunter-20">
 Amazon link <br>
 <img src="images/riqiorod-3.5mm-trs-to-trrs-adapter.jpg" height="150">  
+</a>
+
+**LAV MIC**  
+PowerDeWise Lav Mic  
+<a href="https://www.amazon.com/dp/B01AG56HYQ/ref=nosim?tag=aaronshunter-20">
+Amazon link <br>
+<img src="images/powerdewise-lav-mic.jpg" height="150">
 </a>
 
 **HEADPHONES**  
